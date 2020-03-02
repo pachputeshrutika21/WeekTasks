@@ -2,7 +2,7 @@ const user2=[];
 
 function userInfo()
 {
-    usersDetails(users);
+    usersDetails(userInformation);
 }
 async function usersDetails(callback)
 { 
